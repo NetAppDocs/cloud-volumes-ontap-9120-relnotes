@@ -43,7 +43,7 @@ You can upgrade to Cloud Volumes ONTAP 9.12.0 from the 9.11.1 release. BlueXP wi
 
 === Required version of the Connector
 
-The BlueXP Connector must be running version 3.9.23 or later to deploy new Cloud Volumes ONTAP 9.12.0 systems and to upgrade existing systems to this release.
+The BlueXP Connector must be running version 3.9.24 or later to deploy new Cloud Volumes ONTAP 9.12.0 systems and to upgrade existing systems to this release.
 
 TIP: Automatic upgrades of the Connector are enabled by default so you should be running the latest version.
 
