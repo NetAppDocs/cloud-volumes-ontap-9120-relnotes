@@ -17,9 +17,9 @@ Cloud Volumes ONTAP 9.12.0 includes a new enhancement.
 
 Additional features and enhancements are also introduced in the latest versions of BlueXP. See the https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/whats-new.html[BlueXP Release Notes^] for details.
 
-== 9.12.0 P1 (27 Nov 2022)
+== 9.12.0 P1 (15 Dec 2022)
 
-Cloud Volumes ONTAP 9.12.0 P1 is now available. This release includes the following new feature.
+Cloud Volumes ONTAP 9.12.0 P1 is now available in AWS and Google Cloud. This release includes the following new feature.
 
 === Support for m6id.32xlarge in AWS
 
